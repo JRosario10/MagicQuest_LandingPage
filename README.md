@@ -1,6 +1,6 @@
-# Landing Page - React + Vite
+# ✨ MagicQuest
 
-Landing page desarrollada con:
+Landing page interactiva desarrollada con:
 
 - React
 - Vite
@@ -8,7 +8,11 @@ Landing page desarrollada con:
 - Bootstrap
 - Framer Motion
 
-## Instalación
+## 🚀 Vista previa
+
+![Vista previa del sitio](screenshots/preview.png)
+
+## 🛠 Instalación
 
 ```bash
 npm install
