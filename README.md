@@ -24,7 +24,7 @@ y una experiencia visual moderna.
 
 ## 🚀 Vista previa
 
-![Vista previa del sitio](screenshots/preview.png)
+![Vista previa del sitio](./screenshots/preview.png)
 
 ## 🛠 Instalación
 
