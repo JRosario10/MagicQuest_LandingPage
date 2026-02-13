@@ -24,11 +24,4 @@ y una experiencia visual moderna.
 
 ## 🚀 Vista previa
 
-![Vista previa del sitio](./screenshots/preview.png)
-
-## 🛠 Instalación
-
-Clonar repositorio:
-
-```bash
-git clone https://github.com/JRosario10/MagicQuest_LandingPage.git
+![Vista previa del sitio](screenshots/preview.png)
